@@ -1,1 +1,2 @@
-# FYP
+# FYP 
+"Street Syndicate Mud Wars" is an ambitious open-world racing game for mobile devices, aiming to set a new standard by combining dynamic gameplay, responsive controls, and stunning visuals. Players will explore a detailed cityscape and lush forest environments, competing in thrilling street races and mud-wrangling challenges. The game offers deep customization options, captivating missions, and fosters social interaction through competition.
